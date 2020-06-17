@@ -16,8 +16,8 @@ Here are the computed emissions from [OII] and the projected velocities viewed w
 
 ## Step 2
 
-Add a galactic wind. We will simplify the wind at the moment as a constant velocity, decreasing density wind in an opening angle $\Phi$.
+Add a galactic wind. 
 
-The density scales as $$n(r) = n_0\frac{r_0^2}{r^2}$$ where $n_0$ is the density at inner radius $r_0$ ($r_0$ is chosen to be 0.3 kpc in our model). 
+
 
 
