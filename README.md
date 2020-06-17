@@ -20,6 +20,9 @@ Add a galactic wind.
 
 <img src="wind_density.png" width="600" /> 
 
+Together with the rotating disk, the velocity looks like
 
+<img src="wind_disk.png" width="400" /> 
 
+The computed emissions from [OII] and the projected velocities viewed from an axis ratio of 0.8052 are
 
