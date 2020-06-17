@@ -28,4 +28,4 @@ The computed emissions from [OII] and the projected velocities viewed from an ax
 
 <img src="wind0.5.png" width="850" />
 
-<img src="wind1.png" width="800" />
+<img src="wind1.png" width="850" />
