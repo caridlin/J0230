@@ -18,6 +18,8 @@ Here are the computed emissions from [OII] and the projected velocities viewed w
 
 Add a galactic wind. 
 
+<img src="wind_density.png" width="400" /> 
+
 
 
 
