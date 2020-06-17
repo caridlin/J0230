@@ -26,3 +26,6 @@ Together with the rotating disk, the velocity looks like
 
 The computed emissions from [OII] and the projected velocities viewed from an axis ratio of 0.8052 are
 
+<img src="wind0.5.png" width="850" />
+
+<img src="wind1.png" width="800" />
